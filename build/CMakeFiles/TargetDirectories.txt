@@ -1,0 +1,7 @@
+/home/islam/ider/build/CMakeFiles/install/strip.dir
+/home/islam/ider/build/CMakeFiles/install/local.dir
+/home/islam/ider/build/CMakeFiles/install.dir
+/home/islam/ider/build/CMakeFiles/list_install_components.dir
+/home/islam/ider/build/CMakeFiles/rebuild_cache.dir
+/home/islam/ider/build/CMakeFiles/edit_cache.dir
+/home/islam/ider/build/CMakeFiles/Rechner.dir
